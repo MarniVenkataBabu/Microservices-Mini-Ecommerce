@@ -73,6 +73,7 @@ I'll provide PlantUML snippets (text) you can paste into [https://plantuml.com](
 
 <img width="1351" height="737" alt="image" src="https://github.com/user-attachments/assets/63b6f115-61da-4675-907a-14a5014cc42f" />
 
+<img width="1023" height="535" alt="image" src="https://github.com/user-attachments/assets/cb96e027-fc94-408c-bc3a-4be48c977a67" />
 
 ### 5.2 — Sequence Diagram: Checkout flow
 <img width="1396" height="585" alt="image" src="https://github.com/user-attachments/assets/3ac26a5e-608b-4f85-8d3d-7a59dba48670" />
